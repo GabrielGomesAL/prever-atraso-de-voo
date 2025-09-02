@@ -1,3 +1,6 @@
+NAO ESTA PRONTO AINDA FALTA AJUSTES
+
+
 # ✈️ Previsão de Atraso de Voos
 
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/) 
@@ -104,3 +107,4 @@ Dados processados em data/processed
 Modelo treinado em models/model.joblib
 
 Scripts de infraestrutura na pasta terraform/
+
