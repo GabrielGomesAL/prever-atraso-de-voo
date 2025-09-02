@@ -1,0 +1,5 @@
+flight,airline,scheduled_time,weather,delayed
+1001,A,8,clear,0
+1002,B,9,rain,1
+1003,A,10,fog,0
+1004,C,11,clear,1
